@@ -1,6 +1,6 @@
 # svelte-mpa-example
 
-This repo illustrates, how to host a multi page svelte application on github pages. The crux of implementation is to do rendering on client side rather than server side.
+This repo illustrates how to host a multi-page svelte application on github pages. The crux of implementation is to do rendering on client side rather than server side.
 
 
 ## Introduction
